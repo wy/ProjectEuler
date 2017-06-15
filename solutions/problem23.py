@@ -32,8 +32,8 @@ def generateAPairs(AList):
     APairs = set()
     for i in AList:
         for j in AList:
-            if i+j <= 28123
-            APairs.add(i+j)
+            if i+j <= 28123:
+                APairs.add(i+j)
     return APairs
 
 
@@ -46,4 +46,5 @@ def problem23():
 
     return acc
 
-    
+print(problem23())
+
