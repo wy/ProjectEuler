@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc795c84-6e03-4a42-849f-dcf695b857ee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helperfiles/p054_poker.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem52.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem53.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem54.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,12 +55,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem54.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="problem54.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solutions/problem54.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="433">
               <caret line="153" column="32" lean-forward="true" selection-start-line="153" selection-start-column="32" selection-end-line="153" selection-end-column="32" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -138,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solutions/problem8.py" />
         <option value="$PROJECT_DIR$/solutions/problem9.py" />
         <option value="$PROJECT_DIR$/solutions/problem10.py" />
         <option value="$PROJECT_DIR$/solutions/problem11.py" />
@@ -189,6 +198,7 @@
         <option value="$PROJECT_DIR$/solutions/problem52.py" />
         <option value="$PROJECT_DIR$/solutions/problem53.py" />
         <option value="$PROJECT_DIR$/solutions/problem54.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -265,7 +275,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="problem42&#9;FILE&#9;file://C:/Users/Wing/PycharmProjects/ProjectEuler/solutions/problem42.py&#10;perm&#9;null&#9;null&#10;prime&#9;null&#9;null&#10;pandig&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="readme&#9;FILE&#9;file://C:/Users/Wing/PycharmProjects/ProjectEuler/README.md&#10;problem42&#9;FILE&#9;file://C:/Users/Wing/PycharmProjects/ProjectEuler/solutions/problem42.py&#10;perm&#9;null&#9;null&#10;prime&#9;null&#9;null&#10;pandig&#9;null&#9;null" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -530,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1498322095925</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Really enjoyed coding Problem 54. Not that complex but got to think through all the cases.">
+      <created>1498327752705</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1498327752705</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -605,7 +622,8 @@
     <MESSAGE value="Really trivial solution for 48. Performed a quick cleanup to discard anything but the last ten digits." />
     <MESSAGE value="Added 49 and 50 which were fine. 50 was fairly interesting just with a double for loop." />
     <MESSAGE value="Problem 51 is quite tricky. I should revisit this to create a more elegant solution." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 51 is quite tricky. I should revisit this to create a more elegant solution." />
+    <MESSAGE value="Really enjoyed coding Problem 54. Not that complex but got to think through all the cases." />
+    <option name="LAST_COMMIT_MESSAGE" value="Really enjoyed coding Problem 54. Not that complex but got to think through all the cases." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -614,13 +632,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solutions/problem11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solutions/problem12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -989,6 +1000,17 @@
         <state relative-caret-position="433">
           <caret line="153" column="32" lean-forward="true" selection-start-line="153" selection-start-column="32" selection-end-line="153" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
