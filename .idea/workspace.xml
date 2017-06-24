@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc795c84-6e03-4a42-849f-dcf695b857ee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem49.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem50.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem51.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,21 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem50.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="problem50.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solutions/problem50.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="50" column="22" lean-forward="false" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            <state relative-caret-position="280">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem35.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solutions/problem35.py">
+      <file leaf-file-name="problem51.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solutions/problem51.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="46" selection-end-column="15" />
+            <state relative-caret-position="1680">
+              <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -88,6 +87,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>if s == 8</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>if s</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -108,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solutions/problem4.py" />
         <option value="$PROJECT_DIR$/solutions/problem5.py" />
         <option value="$PROJECT_DIR$/solutions/problem6.py" />
         <option value="$PROJECT_DIR$/solutions/problem7.py" />
@@ -159,6 +165,7 @@
         <option value="$PROJECT_DIR$/solutions/problem48.py" />
         <option value="$PROJECT_DIR$/solutions/problem49.py" />
         <option value="$PROJECT_DIR$/solutions/problem50.py" />
+        <option value="$PROJECT_DIR$/solutions/problem51.py" />
       </list>
     </option>
   </component>
@@ -262,25 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.problem50">
-    <configuration default="false" name="problem46" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProjectEuler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/problem46.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.problem51">
     <configuration default="false" name="problem47" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -353,6 +342,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="problem51" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProjectEuler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/problem51.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -418,19 +425,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.problem46" />
-      <item index="1" class="java.lang.String" itemvalue="Python.problem47" />
-      <item index="2" class="java.lang.String" itemvalue="Python.problem48" />
-      <item index="3" class="java.lang.String" itemvalue="Python.problem49" />
-      <item index="4" class="java.lang.String" itemvalue="Python.problem50" />
+      <item index="0" class="java.lang.String" itemvalue="Python.problem47" />
+      <item index="1" class="java.lang.String" itemvalue="Python.problem48" />
+      <item index="2" class="java.lang.String" itemvalue="Python.problem49" />
+      <item index="3" class="java.lang.String" itemvalue="Python.problem50" />
+      <item index="4" class="java.lang.String" itemvalue="Python.problem51" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.problem50" />
-        <item index="1" class="java.lang.String" itemvalue="Python.problem49" />
-        <item index="2" class="java.lang.String" itemvalue="Python.problem48" />
-        <item index="3" class="java.lang.String" itemvalue="Python.problem47" />
-        <item index="4" class="java.lang.String" itemvalue="Python.problem46" />
+        <item index="0" class="java.lang.String" itemvalue="Python.problem51" />
+        <item index="1" class="java.lang.String" itemvalue="Python.problem50" />
+        <item index="2" class="java.lang.String" itemvalue="Python.problem49" />
+        <item index="3" class="java.lang.String" itemvalue="Python.problem48" />
+        <item index="4" class="java.lang.String" itemvalue="Python.problem47" />
       </list>
     </recent_temporary>
   </component>
@@ -483,19 +490,25 @@
       <option name="project" value="LOCAL" />
       <updated>1497916849135</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added 49 and 50 which were fine. 50 was fairly interesting just with a double for loop.">
+      <created>1498318038963</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1498318038963</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3232" height="1732" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1865625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32951483" sideWeight="0.081875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32951483" sideWeight="0.918125" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32951483" sideWeight="0.918125" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951483" sideWeight="0.49625" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -556,20 +569,14 @@
     <MESSAGE value="Added solutions 43-45. Note: 44 is not solved with a proof of optimality." />
     <MESSAGE value="Added solutions to 46 and 47. Definitely some good optimisations to do for 47." />
     <MESSAGE value="Really trivial solution for 48. Performed a quick cleanup to discard anything but the last ten digits." />
-    <option name="LAST_COMMIT_MESSAGE" value="Really trivial solution for 48. Performed a quick cleanup to discard anything but the last ten digits." />
+    <MESSAGE value="Added 49 and 50 which were fine. 50 was fairly interesting just with a double for loop." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 49 and 50 which were fine. 50 was fairly interesting just with a double for loop." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solutions/problem6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solutions/problem5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1622">
@@ -930,8 +937,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solutions/problem50.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="50" column="22" lean-forward="false" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        <state relative-caret-position="280">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/problem51.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
           <folding />
         </state>
       </provider>
