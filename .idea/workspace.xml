@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc795c84-6e03-4a42-849f-dcf695b857ee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem55.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem56.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem57.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem58.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem59.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/problem60.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,18 +50,18 @@
       <file leaf-file-name="problem58.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solutions/problem58.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
+            <state relative-caret-position="400">
+              <caret line="31" column="15" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="31" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem59.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solutions/problem59.py">
+      <file leaf-file-name="problem60.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solutions/problem60.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="3769">
+              <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solutions/problem14.py" />
         <option value="$PROJECT_DIR$/solutions/problem15.py" />
         <option value="$PROJECT_DIR$/solutions/problem16.py" />
         <option value="$PROJECT_DIR$/solutions/problem17.py" />
@@ -172,6 +167,7 @@
         <option value="$PROJECT_DIR$/solutions/problem57.py" />
         <option value="$PROJECT_DIR$/solutions/problem58.py" />
         <option value="$PROJECT_DIR$/solutions/problem59.py" />
+        <option value="$PROJECT_DIR$/solutions/problem60.py" />
       </list>
     </option>
   </component>
@@ -278,25 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.problem59">
-    <configuration default="false" name="problem55" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProjectEuler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/problem55.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.problem60">
     <configuration default="false" name="problem56" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,6 +347,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="problem60" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProjectEuler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/problem60.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -434,19 +430,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.problem55" />
-      <item index="1" class="java.lang.String" itemvalue="Python.problem56" />
-      <item index="2" class="java.lang.String" itemvalue="Python.problem57" />
-      <item index="3" class="java.lang.String" itemvalue="Python.problem58" />
-      <item index="4" class="java.lang.String" itemvalue="Python.problem59" />
+      <item index="0" class="java.lang.String" itemvalue="Python.problem56" />
+      <item index="1" class="java.lang.String" itemvalue="Python.problem57" />
+      <item index="2" class="java.lang.String" itemvalue="Python.problem58" />
+      <item index="3" class="java.lang.String" itemvalue="Python.problem59" />
+      <item index="4" class="java.lang.String" itemvalue="Python.problem60" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.problem59" />
-        <item index="1" class="java.lang.String" itemvalue="Python.problem58" />
-        <item index="2" class="java.lang.String" itemvalue="Python.problem57" />
-        <item index="3" class="java.lang.String" itemvalue="Python.problem56" />
-        <item index="4" class="java.lang.String" itemvalue="Python.problem55" />
+        <item index="0" class="java.lang.String" itemvalue="Python.problem60" />
+        <item index="1" class="java.lang.String" itemvalue="Python.problem59" />
+        <item index="2" class="java.lang.String" itemvalue="Python.problem58" />
+        <item index="3" class="java.lang.String" itemvalue="Python.problem57" />
+        <item index="4" class="java.lang.String" itemvalue="Python.problem56" />
       </list>
     </recent_temporary>
   </component>
@@ -527,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1498327804661</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added a few new solutions for 55-59.">
+      <created>1498510151095</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1498510151095</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -604,7 +607,8 @@
     <MESSAGE value="Problem 51 is quite tricky. I should revisit this to create a more elegant solution." />
     <MESSAGE value="Really enjoyed coding Problem 54. Not that complex but got to think through all the cases." />
     <MESSAGE value="Updated to 55 solutions now." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated to 55 solutions now." />
+    <MESSAGE value="Added a few new solutions for 55-59." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a few new solutions for 55-59." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -613,13 +617,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solutions/problem18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solutions/problem19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -964,14 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/problem58.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solutions/problem17.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1391">
@@ -998,8 +987,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solutions/problem59.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="-831">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/problem58.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="31" column="15" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="31" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/problem60.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3769">
+          <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
           <folding />
         </state>
       </provider>
